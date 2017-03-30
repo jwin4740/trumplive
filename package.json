@@ -23,6 +23,7 @@
     "handlebars-helper-css": "^0.1.0"
   },
   "engines": {
-    "node": "6.9.4"
+    "node": "6.9.4",
+    "npm": "4.4.1"
   }
 }
