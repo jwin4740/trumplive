@@ -1,12 +1,12 @@
 {
-  "name": "mvc_design",
+  "name": "trumpstuff",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
-  "author": "",
+  "author": "James J WInkle",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.1",
@@ -23,6 +23,7 @@
     "handlebars-helper-css": "^0.1.0"
   },
   "engines": {
-    "node": "6.9.4"
+    "node": "6.9.4",
+    "npm": "4.4.1"
   }
 }
